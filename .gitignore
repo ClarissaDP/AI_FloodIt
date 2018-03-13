@@ -1,0 +1,11 @@
+# Ignore all executables
+
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+*.out
+# Unignore all dirs
+!*/
+!*makefile
+
